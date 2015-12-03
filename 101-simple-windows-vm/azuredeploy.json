@@ -35,7 +35,7 @@
     },
     "dnsNameForPublicIP": {
       "type": "string",
-            "defaultValue": "WindowsServer001",
+      "defaultValue": "WindowsServer001",
       "metadata": {
         "description": "Unique Host Name (DNS Name) for the Public IP used to access the Virtual Machine."
       }
